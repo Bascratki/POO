@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GabaritoAppBancario">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GabaritoAppBancario.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
